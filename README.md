@@ -1,4 +1,7 @@
-# My Dotfiles
+### Prerequisites
+- [Neovim](https://neovim.io/)
+- [Alacritty](https://alacritty.org/)
+
 ### Sources
-- [Alacritty](https://www.josean.com/posts/how-to-setup-alacritty-terminal)
+- https://www.josean.com/posts/how-to-setup-alacritty-terminalurc
 
